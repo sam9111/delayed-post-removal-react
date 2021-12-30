@@ -1,3 +1,5 @@
+# delayed-post-removal-react
+
 > Learnings from the "Web Development 301 - Typed Functional Programming" course as part of the Coronasafe Engineering Fellowship 2020
 
 ## Getting Started
@@ -23,4 +25,3 @@ npm run server
 ```
 
 3. Visit `http://localhost:8000` to see live application preview
-# delayed-post-removal-react
